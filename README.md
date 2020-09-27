@@ -6,5 +6,5 @@ Folders including (data, scripts, & writing).
 Fell free to fork and study by yourself.
 
 You only need to re-locate your folders
-data <- read.csv("Write your file position here", header = TRUE)
+data <- read.csv("Write your file location here", header = TRUE)
 
